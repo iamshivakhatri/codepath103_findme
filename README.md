@@ -28,7 +28,7 @@ Database: PostgreSQL
 
 ### Project Sharing
 
-Share updates about the projects you're working on and invite others to join your endeavours.
+✅ Share updates about the projects you're working on and invite others to join your endeavours.
 
 [gif goes here]
 
@@ -37,11 +37,11 @@ Securely log in to manage your projects and connect with the FindMe community.
 [gif goes here]
 
 ### Simple Post Management
-Add a Post: Share project updates, interests, and collaboration requests with the community.
+✅Add a Post: Share project updates, interests, and collaboration requests with the community.
 
 Edit a Post: Update and refine your project details.
 
-View a Post: See project information shared by other members.
+✅View a Post: See project information shared by other members.
 
 Delete a Post: Remove posts when they're no longer relevant.
 
@@ -58,6 +58,8 @@ Delete a Project: Remove projects when they're no longer relevant. Keep your pro
 
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+<img src='./rec.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Installation Instructions
 

@@ -1,0 +1,12 @@
+{
+  "name": "codepath103_findme",
+  "version": "1.0.0",
+  "description": "CodePath WEB103 Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
