@@ -26,7 +26,7 @@ Database: PostgreSQL
 
 ## Features
 
-### Project Sharing
+### Post Sharing
 
 ✅ Share updates about the projects you're working on and invite others to join your endeavours.
 
@@ -34,6 +34,7 @@ Database: PostgreSQL
 
 ### User Authentication
 Securely log in to manage your projects and connect with the FindMe community.
+✅
 [gif goes here]
 
 ### Simple Post Management
