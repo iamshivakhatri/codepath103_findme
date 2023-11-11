@@ -74,6 +74,8 @@ Delete a Post: Remove posts when they're no longer relevant.
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 <img src='https://i.imgur.com/DEJRewH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/l46Cq9CZ7V5yGpOCA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Installation Instructions
 
