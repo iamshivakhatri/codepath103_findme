@@ -31,8 +31,15 @@ Database: PostgreSQL
 
 
 ### User Authentication
-Securely log in to manage your projects and connect with the FindMe community.
-[gif goes here]
+✅Securely log in to manage your projects and connect with the FindMe community.
+<img src='./login.gif' title='' width='' alt='' />
+
+✅Logout
+<img src='./logout.gif' title='' width='' alt='' />
+
+
+
+
 
 ### Simple Post Management
 ✅Add a Post: Share project updates, interests, and collaboration requests with the community.
