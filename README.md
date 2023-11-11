@@ -28,39 +28,45 @@ Database: PostgreSQL
 
 ### Post Sharing
 
-✅ Share updates about the projects you're working on and invite others to join your endeavours.
 
-[gif goes here]
 
 ### User Authentication
 Securely log in to manage your projects and connect with the FindMe community.
-✅
 [gif goes here]
 
 ### Simple Post Management
 ✅Add a Post: Share project updates, interests, and collaboration requests with the community.
+<img src='./postapost.gif' title='' width='' alt='' />
 
 Edit a Post: Update and refine your project details.
 
 ✅View a Post: See project information shared by other members.
+<img src='./viewposts.gif' title='' width='' alt='' />
 
 Delete a Post: Remove posts when they're no longer relevant.
 
 ### Simple Project Management
-Add a Project: Create and share new projects with the community. Let others know what you're working on and how they can get involved.
+✅Add a Project: Create and share new projects with the community. Let others know what you're working on and how they can get involved.
+<img src='./newproject.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Edit a Project: Update and refine your project details. Keep your project information up to date as it evolves.
+✅Edit a Project: Update and refine your project details. Keep your project information up to date as it evolves.
+<img src='./editproject.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-View a Project: Explore project information shared by other members. Discover exciting projects from the community.
+✅View a Project: Explore project information shared by other members. Discover exciting projects from the community.
+<img src='./viewprojects.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Delete a Project: Remove projects when they're no longer relevant. Keep your project list organized and up to date.
+✅Delete a Project: Remove projects when they're no longer relevant. Keep your project list organized and up to date.
+<img src='./deleteprojects.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### View/Edit/Delete Profile Details
+✅<img src='./detailsprofile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
-<img src='./rec.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./unit8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Installation Instructions
 
