@@ -73,7 +73,7 @@ Delete a Post: Remove posts when they're no longer relevant.
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
-<img src='./unit8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DEJRewH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Installation Instructions
 
