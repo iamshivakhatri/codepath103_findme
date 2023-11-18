@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Shiva Khatri and Abhishek Yadav
 
-🔗 Link to deployed app: [Add your deployed app link here]
+🔗 Link to deployed app: [https://bondness-e8bdc.web.app/]
 
 ## About
 
@@ -22,7 +22,7 @@ Frontend: React, HTML/CSS, GitHub
 
 Backend: Node.js, Express
 
-Database: PostgreSQL
+Database: Firebase
 
 ## Features
 
@@ -45,12 +45,14 @@ Database: PostgreSQL
 ✅Add a Post: Share project updates, interests, and collaboration requests with the community.
 <img src='./postapost.gif' title='' width='' alt='' />
 
-Edit a Post: Update and refine your project details.
+✅Edit a Post: Update and refine your project details.
+<img src='./editpost.gif' title='' width='' alt='' />
 
 ✅View a Post: See project information shared by other members.
 <img src='./viewposts.gif' title='' width='' alt='' />
 
-Delete a Post: Remove posts when they're no longer relevant.
+✅Delete a Post: Remove posts when they're no longer relevant.
+<img src='./deletepost.gif' title='' width='' alt='' />
 
 ### Simple Project Management
 ✅Add a Project: Create and share new projects with the community. Let others know what you're working on and how they can get involved.
