@@ -61,12 +61,12 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 👉🏾👉🏾👉🏾 Check off each completed feature below.
 
 - [✅] A subset of pages require the user to log in before accessing the content
-<img src='./requirelogin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='../requirelogin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [✅] Users can log in and log out via email & password OAuth with Passport.js
-  <img src='./login_logut.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='../login_logut.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 - [ ] Restrict available user options dynamically, such as restricting available purchases based on a user's currency
 - [✅] Show a spinner while a page or page element is loading
- <img src='./spinner.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='../spinner.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 - [ ] Disable buttons and inputs during the form submission process
 - [ ] Disable buttons after they have been clicked
 - [ ] Users can upload images to the app and have them be stored on a cloud service
@@ -74,7 +74,8 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ## Final Demo GIF
 
-🔗 [Here's a GIF walkthrough of the final project](👉🏾👉🏾👉🏾 your link here)
+🔗 [Here's a GIF walkthrough of the final project]
+<img src='../wholeapp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Reflection
 
